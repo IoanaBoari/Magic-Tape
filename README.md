@@ -1,4 +1,4 @@
-# doubly-linked-list
+# Magic Tape - doubly-linked-list
 //BOARI Ioana-Ruxandra 312CD					README - TEMA1 SDA                            !
 
 	Pentru implementarea temei am folosit un fisier numit "tema1.h" in care am
